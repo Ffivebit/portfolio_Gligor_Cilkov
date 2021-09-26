@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'ShuttersInc',
     description: "Developed a full-stack web application ShuttersInc for a Dutch client using .NET MVC architecture for the back-end functions. We had to create a login register model, and a shop model for his customers. Created SQL server data tables, stored procedures, and ASP.NET mid-tier web APIs to efficiently gather meaningful data for our client For the front-end we used vanilla HTML/CSS, JavaScript, ES6 and Bootstrap",
-      image: '/images/shutters.jpg',
+      image: '/images/shutters.JPG',
       tags: ['.NET', 'mySQL', 'MVC', 'HTML/CSS', 'JavaScript'],
     source: 'https://google.com',
     visit: 'https://google.com',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'NeatFlix',
     description:"Design Driven & focused prototype application Developed a full-stack web application 'NeatFlix' using React & Firebase that had a very similar feel to Netflix's application. React was used for the front-end components and Firebase for back-end functionalities.",
-    image: '/images/NeatFlix.jpg',
+    image: '/images/NeatFlix.JPG',
     tags: ['Firebase', 'React', 'Styled-Components'],
     source: 'https://google.com',
     visit: 'https://google.com',
